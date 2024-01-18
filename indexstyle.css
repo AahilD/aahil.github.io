@@ -48,13 +48,13 @@ head, body {
   display: none;
   }
 .theme-toggle input[type="checkbox"] + label{
-  background-image: url("Images/moon1.png");
+  background-image: url("images/moon1.png");
   background-repeat: no-repeat;
   width: 40px;
   height: 30px;
 }
 .theme-toggle input[type="checkbox"]:checked + label {
-  background-image: url("Images/sunny1.png");
+  background-image: url("images/sunny1.png");
 }
 
 .heading2{
